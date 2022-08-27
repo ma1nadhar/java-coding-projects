@@ -71,7 +71,6 @@ public class ConvertFeetInchesToCentimeters {
 		
 		// call first method to calculate centimeters
 		return calcFeetAndInchesToCentimeters(feet, remainingInches);
-
 		
 	}
 
