@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+**NumberInWord.java**     
+&emsp;&emsp;&emsp;- Uses Switch Statement       
+&emsp;&emsp;&emsp;- When passed a parameter int whole number, a print statment outputs the word form of the number
+
 **DayofWeek.java**     
 &emsp;&emsp;&emsp;- Uses Switch and If/Else Statements       
 &emsp;&emsp;&emsp;- When passed a parameter int day, a print statment outputs the day of the week
