@@ -1,8 +1,8 @@
 # Java Coding Projects
 
 **NumberDaysInMonth.java**     
-&emsp;&emsp;&emsp;- Uses And and Or      
-&emsp;&emsp;&emsp;- Returns a boolean if a given year is a leap year
+&emsp;&emsp;&emsp;- Uses And, Or, Switch Statements      
+&emsp;&emsp;&emsp;- Returns a boolean if a given year is a leap year and number of days in a month given month and year
 
 **NumberInWord.java**     
 &emsp;&emsp;&emsp;- Uses Switch Statement       
