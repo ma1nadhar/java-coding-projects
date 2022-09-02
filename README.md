@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+**NumberDaysInMonth.java**     
+&emsp;&emsp;&emsp;- Uses And and Or      
+&emsp;&emsp;&emsp;- Returns a boolean if a given year is a leap year
+
 **NumberInWord.java**     
 &emsp;&emsp;&emsp;- Uses Switch Statement       
 &emsp;&emsp;&emsp;- When passed a parameter int whole number, a print statment outputs the word form of the number
