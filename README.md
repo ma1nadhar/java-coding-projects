@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+**Sums.java**     
+&emsp;&emsp;&emsp;- Uses For Loops  
+&emsp;&emsp;&emsp;- Returns an int of the sum of all odd numbers or numbers divisible by 3 and 5
+
 **NumberDaysInMonth.java**     
 &emsp;&emsp;&emsp;- Uses And, Or, Switch Statements      
 &emsp;&emsp;&emsp;- Returns a boolean if a given year is a leap year and number of days in a month given month and year
