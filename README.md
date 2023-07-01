@@ -1,6 +1,6 @@
 # Java Coding Projects
 
-###Sums.java     
+### Sums.java     
 + Uses For Loops  
 + Returns an int of the sum of all odd numbers or numbers divisible by 3 and 5
 
