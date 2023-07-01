@@ -1,8 +1,8 @@
 # Java Coding Projects
 
-**Sums.java**     
-&emsp;&emsp;&emsp;- Uses For Loops  
-&emsp;&emsp;&emsp;- Returns an int of the sum of all odd numbers or numbers divisible by 3 and 5
+###Sums.java     
++ Uses For Loops  
++ Returns an int of the sum of all odd numbers or numbers divisible by 3 and 5
 
 **NumberDaysInMonth.java**     
 &emsp;&emsp;&emsp;- Uses And, Or, Switch Statements      
