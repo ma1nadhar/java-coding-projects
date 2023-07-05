@@ -18,7 +18,8 @@
 
 ### SecondsAndMinutes.java  
 + Uses Method Overloading     
-+ Converts the given seconds and minutes into hours. It also must output double digit values
++ Converts the given seconds and minutes into hours
++ Must output double digit values
 
 ### ConvertFeetInchesToCentimeters.java     
 + Uses Method Overloading     
