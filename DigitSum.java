@@ -12,19 +12,17 @@
 public class DigitSum {
     public static void main(String[] args) {
 
-        System.out.println(sumDigits(124));
-        System.out.println(sumDigits(5));
-        System.out.println(sumDigits(9869));
-
+        System.out.println("The sum of the digits in number 124 is " + sumDigits(124));
+        System.out.println("The sum of the digits in number 5 is " + sumDigits(5));
+        System.out.println("The sum of the digits in number -89 is " + sumDigits(-89));
+        System.out.println("The sum of the digits in number 9869 is " + sumDigits(9869));
 
 	}
 
     public static int sumDigits(int number) {
 
         if (number < 10) {
-
             return -1;
-
         }
 
         int sum = 0;
