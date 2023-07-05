@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+### DigitSum.java     
++ Uses While Loop, If Statements  
++ Returns an int value that is the sum of all numbers in the digit provided
+
 ### Sums.java     
 + Uses For Loops  
 + Returns an int of the sum of all odd numbers or numbers divisible by 3 and 5
