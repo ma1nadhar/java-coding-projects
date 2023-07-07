@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+### ReadUserInput.java
++ Uses Scanner class for Java user input
++ Outputs user input information
+
 ### ParseString.java
 + Uses a class Integer and Double
 + Concatenate to a String
