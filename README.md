@@ -2,7 +2,7 @@
 
 ### ReadUserInput.java
 + Uses Scanner class for Java user input
-+ Outputs user input information
++ Uses If/Else Statements for Error Handling
 
 ### ParseString.java
 + Uses a class Integer and Double
