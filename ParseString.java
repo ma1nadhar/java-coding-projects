@@ -1,3 +1,14 @@
+/* 
+ * ParseString.java
+ * 
+ * Maina Dhar
+ * Java Project
+ * 
+ * This java program converts a String into an
+ * Integer/Double datatype.
+ * 
+ */
+
 public class ParseString {
 
     public static void main(String[] args) {

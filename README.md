@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+### ParseString.java
++ Uses a class Integer and Double
++ Concatenate to a String
+
 ### DigitSum.java     
 + Uses While Loop, If Statements  
 + Returns an int value that is the sum of all numbers in the digit provided
