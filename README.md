@@ -1,5 +1,10 @@
 # Java Coding Projects
 
+### MinMax.java
++ Uses Scanner class to get input of numbers from user
++ Finds the Min and Max Values and outputs them
++ Uses If/Else, While, and Boolean Statements
+
 ### UserInputSum.java
 + Uses Scanner class for Java user input
 + Uses If/Else and While Statements
