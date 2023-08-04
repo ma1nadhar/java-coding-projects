@@ -1,5 +1,9 @@
 # Java Coding Projects
 
+### UserInputSum.java
++ Uses Scanner class for Java user input
++ Uses If/Else and While Statements
+
 ### ReadUserInput.java
 + Uses Scanner class for Java user input
 + Uses If/Else Statements for Error Handling
